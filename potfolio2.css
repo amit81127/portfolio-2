@@ -1,0 +1,233 @@
+*{
+    font-family: "Montserrat", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: black;
+  color: white;
+  
+}
+
+.upper{
+    
+    color: aliceblue;
+    
+}
+.log{  
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    width: 550px;
+    position: relative;
+    bottom: 100px;
+    left: 60rem;
+    
+}
+.log button{
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    flex: content;
+    margin-top: 50px;
+}
+#btn:hover{
+    background-color: white;
+    opacity:1.5;
+    color: black;
+    border: 2px solid black;
+}
+.po h2{
+    color: rgb(232, 7, 7);
+    margin-left: 20px;
+    font-size: 30px;
+    width: 400px;
+    
+    
+}
+.name{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.em{
+    background-color: red;
+    color: white;
+    position: relative;
+    right: 90px;
+    bottom: 3px;
+    border-radius: 10px;
+    font-size: 15px;
+    width: 80px;
+    cursor: pointer;
+}
+.ema{
+    background-color: white;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 370px;
+}
+
+
+.text{
+    width: 400px;
+    height: 500px;
+    color: white;
+    position: relative;
+    left: 50rem;
+    bottom: 300px;
+}
+.fo{
+    font-size: 50px;
+}
+.photo{
+    height: 350px;
+    width: 300px;
+    background-color: #121212;
+    position: relative;
+    top: 100px;
+    left: 30rem;
+    box-shadow: 10px black;
+}
+.talk{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    color: aliceblue;
+}
+.talk:hover{
+    background-color: aliceblue;
+    color: #121212;
+    width: 100px;
+    height: 35px;
+}
+.next{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+
+#cad{
+    background-color:black;
+    height: 400px;
+    width: 350px;
+    border: 3px solid white;
+    position: relative;
+    bottom: 250px;
+    
+}
+#cad:hover{
+    background-color:whitesmoke;
+    color:black;
+    border: 4px solid red;
+    border-radius: 20px;
+    box-shadow: 10px;
+   
+    cursor: pointer;
+}
+.se{
+    position: relative;
+    bottom: 300px;
+   padding-left: 550px;
+    font-size: 60px;
+    
+}
+.card h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    background-color: transparent;
+}
+.card p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    
+
+}
+#red {
+   position: relative;
+   left: 100px;
+   width: 150px;
+}
+#icon{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+
+    opacity: 10;
+    
+}
+.hir{
+    background-color: #121212;
+    height: 200px;
+    width: 100hv;
+    
+    position: relative;
+    bottom: 200px;
+}
+.ta{
+    position: relative;
+    top :10px;
+    background-color: transparent;
+    padding-left: 500px;
+    top: 50px;
+}
+.skill{
+    width: 700px;
+    height: 300px;
+   
+    margin-left: 400px;
+    position: relative;
+    bottom: 100px;
+    padding: 20px;
+    
+}
+.skill h1{
+    font-size: 40px;
+    margin-left: 300px;
+}
+.skill h1:hover{
+    color: red;
+    opacity: 3;
+    cursor: pointer;
+}
+.skill h3{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.skill p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.soci{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#ico{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    color: white;
+    
+}
+#ico:hover{
+    opacity: 4;
+    cursor: pointer;
+    
+}
